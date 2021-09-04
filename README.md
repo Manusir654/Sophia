@@ -8,11 +8,11 @@ Simple whatsapp bot | Reedited from whatsasena
 <a href="#"><img title="Sophia" src="https://img.shields.io/badge/Sophia-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Hisham-muhammed"><img title="Author" src="https://img.shields.io/badge/Author-hisham-muhammed/Sophia?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Manusir654"><img title="Author" src="https://img.shields.io/badge/Author-Manusir654/Sophia?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Hisham-Muhammed/Sophia-Mwol">Hisham-muhammed</a> to make it public
+Project created by <a href="https://github.com/Manusir654/Sophia-Mwol">Manusir</a> to make it public
     <br>
        | Â© |
         Reserved |
@@ -32,46 +32,23 @@ Project created by <a href="https://github.com/Hisham-Muhammed/Sophia-Mwol">Hish
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
 </p>
 
-<h3 align="center">Contact Me:</h3>
-<p align="center">
-<a href="https://instagram.com/hisham___muhammed__?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
-</p>
-<h4 align="center">Support Video For Deploy Bot ðŸ‘‡:</h4>
-<p align="center">
-<a href="https://youtu.be/JzTpSfw6jcM" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
-</p>
   
 
 <div align="center">
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hisham-muhammed&show_icons=true&theme=nightowl" alt="Hisham-muhammed" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hisham-muhammed&theme=nightowl" alt="Hisham-muhammed" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hisham-muhammed&theme=nightowl" alt="Manusir" /></p>
 </details> </div>
 
 
-## ðŸ“¢ Guide
-Click WA logo to Join Support Group ðŸ‘‡
-    <br>
-<br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CYGahR3hC1DHq44n4ri5J6)
 
-## 
-  <h3 align="center">ðŸ“¢ Support Group 2:</h3>
-<p align="center">
-Click Sophia logo to Join Support Group 2ðŸ‘‡
-    <br>
-<br>
-  <a href="https://chat.whatsapp.com/Kne4KggCeYoE9vIc6iZLZJ" target="blank"><img align="center" src="https://i.imgur.com/1CjbIG8.jpeg" alt="kyrie.baran" height="200" width="200" /></a>
-</p>
-    
-## Setup
-<div align="center">
+
 
   ### Simple Method
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hisham-Muhammed/Sophia-.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mannusir654/Sophia-.git)
      </div>
 <br>
 <br >
